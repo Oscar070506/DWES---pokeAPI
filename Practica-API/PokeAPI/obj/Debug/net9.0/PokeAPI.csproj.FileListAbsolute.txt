@@ -1,0 +1,14 @@
+C:\Users\Usuario\Desktop\Practica-API\PokeAPI\bin\Debug\net9.0\PokeAPI.exe
+C:\Users\Usuario\Desktop\Practica-API\PokeAPI\bin\Debug\net9.0\PokeAPI.deps.json
+C:\Users\Usuario\Desktop\Practica-API\PokeAPI\bin\Debug\net9.0\PokeAPI.runtimeconfig.json
+C:\Users\Usuario\Desktop\Practica-API\PokeAPI\bin\Debug\net9.0\PokeAPI.dll
+C:\Users\Usuario\Desktop\Practica-API\PokeAPI\bin\Debug\net9.0\PokeAPI.pdb
+C:\Users\Usuario\Desktop\Practica-API\PokeAPI\obj\Debug\net9.0\PokeAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Practica-API\PokeAPI\obj\Debug\net9.0\PokeAPI.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Practica-API\PokeAPI\obj\Debug\net9.0\PokeAPI.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Practica-API\PokeAPI\obj\Debug\net9.0\PokeAPI.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Practica-API\PokeAPI\obj\Debug\net9.0\PokeAPI.dll
+C:\Users\Usuario\Desktop\Practica-API\PokeAPI\obj\Debug\net9.0\refint\PokeAPI.dll
+C:\Users\Usuario\Desktop\Practica-API\PokeAPI\obj\Debug\net9.0\PokeAPI.pdb
+C:\Users\Usuario\Desktop\Practica-API\PokeAPI\obj\Debug\net9.0\PokeAPI.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Practica-API\PokeAPI\obj\Debug\net9.0\ref\PokeAPI.dll
