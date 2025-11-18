@@ -313,7 +313,7 @@ public class Evolution_Chains {
 public class Chain {
     public bool Is_baby { get; set; }
     public Species Species { get; set; }
-    public string Evolution_detials { get; set; }
+    public string Evolution_details { get; set; }
     public Evolves_to[] Evolves_to { get; set; }
 }
 
@@ -325,9 +325,36 @@ public class Species {
 public class Evolves_to{
     public bool Is_baby { get; set; }
     public Species Species { get; set; }
-    public Evolution_detials[] Evolution_detials { get; set; }
-    [JsonPropertyName("Evolves_to")]
-    public Evolves_to_pokemon[] Evolves_to_pokemon { get; set; }
+    public Evolution_details[] Evolution_details { get; set; }
+    public Evolves_to[] Evolves_to_pokemon { get; set; }
+}
+
+public class Evolution_details
+{
+    public string Item { get; set; }
+    public Trigger Trigger { get; set; }
+    public string Gender { get; set; }
+    public string Held_Item { get; set; }
+    public string Known_Move { get; set; }
+    public string Known_Move_Type { get; set; }
+    public int Min_Level { get; set; }
+    public int Min_Happiness { get; set; }
+    public int Min_Beauty { get; set; }
+    public int Min_Affection { get; set; }
+    public bool Need_Overworld_Rain { get; set; }
+    public string Party_Species { get; set; }
+    public string Party_Type { get; set; }
+    public int Relative_Physical_Stats { get; set; }
+    public string Time_Of_Day { get; set; }
+    public string Trade_Species { get; set; }
+    public bool Turn_Upside_Down { get; set; }
+
+}
+
+public class Trigger
+{
+    public string Name { get; set; }
+    public string Url { get; set; }
 }
 
 public class Evolution_Triggers {
