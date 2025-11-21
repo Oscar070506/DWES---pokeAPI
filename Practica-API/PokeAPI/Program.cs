@@ -13,6 +13,7 @@ class Program
         HttpClientHandler clientHandler = new HttpClientHandler(); 
         clientHandler.ServerCertificateCustomValidationCallback = (sender, cert, chain, sslPolicyErrors) => true; 
         client = new HttpClient(clientHandler);
+        client.DefaultRequestHeaders.UserAgent.ParseAdd("CSharpApp/1.0");
         
         while (true)
         {
@@ -171,3 +172,4 @@ class Program
         }
     }
 }
+
