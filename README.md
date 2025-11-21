@@ -6,16 +6,23 @@ Es necesario tener instalado C# y a ser posible una IDE donde ejecutarlo de form
 
 ### Estructura del proyecto
 
-Practica-API/
-└── PokeAPI/                 # Proyecto principal en C#
-    ├── bin/                 # Archivos compilados (generados automáticamente)
-    ├── obj/                 # Archivos temporales de compilación
-    ├── PokeAPI.csproj       # Archivo de configuración del proyecto C#
-    ├── Program.cs           # Punto de entrada principal de la aplicación
-    ├── Todo.cs              # Modelo o clase auxiliar (por ejemplo, para pruebas o estructura base)
-    ├── Moves.cs             # Clase que gestiona los movimientos de los Pokémon
-    ├── PokeAPI.sln          # Archivo de solución (Visual Studio)
-    └── README.md            # Documentación del proyecto
+    └── PokeAPI/                 # Proyecto principal en C#
+
+        ├── bin/                 # Archivos compilados (generados automáticamente)
+
+        ├── obj/                 # Archivos temporales de compilación
+
+        ├── PokeAPI.csproj       # Archivo de configuración del proyecto C#
+
+        ├── Program.cs           # Punto de entrada principal de la aplicación
+
+        ├── Todo.cs              # Modelo o clase auxiliar (por ejemplo, para pruebas o estructura base)
+
+        ├── Moves.cs             # Clase que gestiona los movimientos de los Pokémon
+
+        ├── PokeAPI.sln          # Archivo de solución (Visual Studio)
+    
+        └── README.md            # Documentación del proyecto
 
 ## Funcionalidades principales
 
