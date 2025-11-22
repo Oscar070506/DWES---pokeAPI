@@ -37,11 +37,11 @@ Es necesario tener instalado C# y a ser posible una IDE donde ejecutarlo de form
 - IDE: Visual Studio Code
 
 ## Ejemplo de uso
-1. Ejecutar el proyecto:
+#Ejecutar el proyecto:
 
 dotnet run
 
-2. Elegir opción del menú principal:
+#Elegir opción del menú principal:
 
 =========== MENÚ PRINCIPAL ===========
 1. Pokédex de Universal
@@ -49,7 +49,7 @@ dotnet run
 3. Salir
 
 
-3. Seleccionar búsqueda (por ejemplo, Pokémon por tipo “fire”):
+#Seleccionar búsqueda (por ejemplo, Pokémon por tipo “fire”):
 
 ============== PokeMENÚ ==============
 ¿Cómo quieres buscar?
@@ -58,7 +58,7 @@ dotnet run
 3. Por Tipo
 4. Salir
 
-4. El programa devolverá información completa de todos los Pokémon de tipo primario elegido.
+#El programa devolverá información completa de todos los Pokémon de tipo primario elegido.
 
 
 
