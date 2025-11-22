@@ -26,7 +26,7 @@ Es necesario tener instalado C# y a ser posible una IDE donde ejecutarlo de form
 
 ## Funcionalidades principales
 
-- Buscar Pokémons de la primera generación por Nombre, Nº de Pokédex, Color, Fase evolutiva y Tipo.
+- Buscar Pokémons de la primera generación por Nombre, Nº de Pokédex y Tipo.
 - Buscar Bayas por Nombre, Sabor y Color.
 
 ## Teconologías utilizadas
@@ -37,7 +37,28 @@ Es necesario tener instalado C# y a ser posible una IDE donde ejecutarlo de form
 - IDE: Visual Studio Code
 
 ## Ejemplo de uso
+1. Ejecutar el proyecto:
 
+dotnet run
+
+2. Elegir opción del menú principal:
+
+=========== MENÚ PRINCIPAL ===========
+1. Pokédex de Universal
+2. Jardín de Bayas
+3. Salir
+
+
+3. Seleccionar búsqueda (por ejemplo, Pokémon por tipo “fire”):
+
+============== PokeMENÚ ==============
+¿Cómo quieres buscar?
+1. Por Nombre
+2. Por Pokédex ID
+3. Por Tipo
+4. Salir
+
+4. El programa devolverá información completa de todos los Pokémon de tipo primario elegido.
 
 
 
